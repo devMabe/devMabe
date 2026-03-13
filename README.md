@@ -17,7 +17,7 @@ Since then I didn't really use my personal git so much, but right now its time t
 ### Talking about personal stuffs:
 
 - 🛠 &nbsp; I’m currently working with TypeScript, ElasticSearch, AWS, PHP.
-- ⚡ &nbsp; I’m currently boosting my skills as AWS Solutions Architect.
+- ⚡ &nbsp; I am currently honing my skills and studying to become an AWS solutions architect.
 - 😄 &nbsp; Fun fact: As a child, I wanted to be a soccer player and later a singer. Who would have thought I'd end up dedicating myself to this beautiful profession, keeping the others just as hobbies?
 - 📫 &nbsp; How to reach me: danielbelnuz18@gmail.com.
 ### My favorite activities:
